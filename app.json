@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bestofkebab",
+    "slug": "bestofkebab",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bestofkebab"
+}
